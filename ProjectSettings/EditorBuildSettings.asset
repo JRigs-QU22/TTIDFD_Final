@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cutscene1.unity
+    guid: 832d6778b52ee41fd813581a3360a176
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tutorial.unity
+    guid: e10f7d6f7697ffd43b1bb837c7137bb7
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tutorial 1.unity
+    guid: 01ceb4c455bda4b6db11f4ccf951c2b5
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tutorial 2.unity
+    guid: b52b58323ab2c4fbbb82c6df83ce34e8
+  - enabled: 1
+    path: Assets/Scenes/cutscene2.unity
+    guid: 88e7359d6c2d24fe68b137e00cbb5674
+  - enabled: 1
+    path: Assets/Scenes/Game 1.unity
+    guid: 8831bc7cdd2f34b45a5f9adc9cfd08f4
+  - enabled: 1
+    path: Assets/Scenes/cutscene3.unity
+    guid: 5b3f3db0756e94ceaa556a1935c65946
+  - enabled: 1
+    path: Assets/Scenes/cutscene4.unity
+    guid: 3d2fc1c0da21347298714324ec0a1abc
+  - enabled: 1
+    path: Assets/Scenes/Lose screen.unity
+    guid: 1855b6d9324d8b7418e0b4448c1579eb
+  m_configObjects: {}
